@@ -1,2 +1,2 @@
 # amazon_emotions
-foк freelance work by emotion analyse
+for freelance work by emotion analyse
